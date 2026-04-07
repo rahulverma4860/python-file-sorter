@@ -70,15 +70,12 @@ dist/File_Sorter.app
 ## 📂 Project Structure
 
 ```
-File_Sorter_Project/
-│── main.py
-│── sorter.py
-│── setup.py
-│── README.md
-│── requirements.txt
-│── .venv/
-│── dist/
-│── build/
+main.py
+sorter.py
+setup.py
+README.md
+requirements.txt
+Screenshots/
 ```
 
 ---
@@ -95,7 +92,5 @@ File_Sorter_Project/
 
 ## 👨‍💻 Author
 
-Rahul Verma
-
-
-Test push from VS Code
+**Rahul Verma**  
+Python Developer | Automation Enthusiast
